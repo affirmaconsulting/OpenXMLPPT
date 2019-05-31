@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Affirma.OpenSource.PresentationTool", "Affirma.OpenSource.PresentationTool\Affirma.OpenSource.PresentationTool.csproj", "{9AC5CBD5-404B-4D25-896B-8E2DABD7BB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC5CBD5-404B-4D25-896B-8E2DABD7BB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC5CBD5-404B-4D25-896B-8E2DABD7BB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC5CBD5-404B-4D25-896B-8E2DABD7BB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC5CBD5-404B-4D25-896B-8E2DABD7BB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0FD459C-A7B6-41CD-AA3C-D51B81B935A7}
+	EndGlobalSection
+EndGlobal
